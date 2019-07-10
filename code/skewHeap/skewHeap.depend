@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1514140574 source:e:\code\skewheap\main.cpp
+	<iostream>
+
+1555464608 source:e:\code\skewheap\skewheap.cpp
+	<iostream>
+	"skewHeap.h"
+
+1555464710 e:\code\skewheap\skewheap.h
+

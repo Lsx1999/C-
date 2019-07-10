@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1553957318 source:e:\code\binarytree\main.cpp
+	<iostream>
+	"binaryTree.h"
+	"queue.h"
+	"stack.h"
+	"binaryTree.cpp"
+	"queue.cpp"
+	"stack.cpp"
+
+1553949182 source:e:\code\binarytree\queue.cpp
+	<iostream>
+	"queue.h"
+
+1553949103 e:\code\binarytree\queue.h
+	<iostream>
+
+1553953122 source:e:\code\binarytree\stack.cpp
+	<iostream>
+	"stack.h"
+
+1553953122 e:\code\binarytree\stack.h
+	<iostream>
+
+1553957386 source:e:\code\binarytree\binarytree.cpp
+	<iostream>
+	"binaryTree.h"
+	"queue.h"
+	"stack.h"
+
+1553957378 e:\code\binarytree\binarytree.h
+
+1553957386 e:\code\binarytree\binarytree.cpp
+	<iostream>
+	"binaryTree.h"
+	"queue.h"
+	"stack.h"
+
+1553949182 e:\code\binarytree\queue.cpp
+	<iostream>
+	"queue.h"
+
+1553953122 e:\code\binarytree\stack.cpp
+	<iostream>
+	"stack.h"
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1555933136 source:e:\code\binomialheap\main.cpp
+	<iostream>
+	"binomialHeap.h"
+	"binomialHeap.cpp"
+
+1555933457 source:e:\code\binomialheap\binomialheap.cpp
+	"binomialHeap.h"
+
+1555934097 e:\code\binomialheap\binomialheap.h
+	<iostream>
+
+1555934174 e:\code\binomialheap\binomialheap.cpp
+	"binomialHeap.h"
+

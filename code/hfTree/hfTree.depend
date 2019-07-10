@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1554432569 source:e:\code\hftree\main.cpp
+	<iostream>
+	<cstring>
+	"hfTree.h"
+	"hfTree.cpp"
+
+1554341270 source:e:\code\hftree\stack.cpp
+	<iostream>
+	"stack.h"
+
+1554341226 e:\code\hftree\stack.h
+	<iostream>
+
+1554431178 source:e:\code\hftree\hftree.cpp
+	<iostream>
+	<string>
+	"hfTree.h"
+	"stack.h"
+	"stack.cpp"
+
+1554431433 e:\code\hftree\hftree.h
+	<iostream>
+	<string>
+
+1554341270 e:\code\hftree\stack.cpp
+	<iostream>
+	"stack.h"
+
+1554434830 e:\code\hftree\hftree.cpp
+	<iostream>
+	<string>
+	"hfTree.h"
+	"stack.h"
+	"stack.cpp"
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1553479447 source:e:\code\list\list.cpp
+	<iostream>
+	"list.h"
+
+1553477891 e:\code\list\list.h
+	<iostream>
+
+1553476455 source:e:\code\list\main.cpp
+	<iostream>
+	"list.h"
+	"list.cpp"
+
+1553476244 e:\code\list\list.cpp
+	<iostream>
+	"list.h"
+

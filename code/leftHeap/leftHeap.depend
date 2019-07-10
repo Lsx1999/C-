@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1555464017 source:e:\code\leftheap\main.cpp
+	<iostream>
+	"leftHeap.h"
+	"leftHeap.cpp"
+
+1555463643 source:e:\code\leftheap\leftheap.cpp
+	<iostream>
+	"leftHeap.h"
+
+1555463643 e:\code\leftheap\leftheap.h
+	<iostream>
+
+1555464170 e:\code\leftheap\leftheap.cpp
+	<iostream>
+	"leftHeap.h"
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1560944112 source:e:\code\adjlistgraph\main.cpp
+	<iostream>
+	"adjListGraph.h"
+	"adjListGraph.cpp"
+
+1559725129 source:e:\code\adjlistgraph\adjlistgraph.cpp
+	<iostream>
+	"adjListGraph.h"
+
+1559725229 e:\code\adjlistgraph\adjlistgraph.h
+	<iostream>
+
+1559725129 e:\code\adjlistgraph\adjlistgraph.cpp
+	<iostream>
+	"adjListGraph.h"
+

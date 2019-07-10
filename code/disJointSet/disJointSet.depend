@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1514140574 source:e:\code\disjointset\main.cpp
+	<iostream>
+
+1558234455 source:e:\code\disjointset\disjointset.cpp
+	"disJointSet.h"
+
+1558234449 e:\code\disjointset\disjointset.h
+

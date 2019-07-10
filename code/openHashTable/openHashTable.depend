@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1557494239 source:e:\code\openhashtable\openhashtable.cpp
+	"openHashTable.h"
+	<iostream>
+
+1558929103 e:\code\openhashtable\openhashtable.h
+	<iostream>
+
+1557494474 source:e:\code\openhashtable\main.cpp
+	<iostream>
+	"openHashTable.h"
+	"openHashTable.cpp"
+
+1557494239 e:\code\openhashtable\openhashtable.cpp
+	"openHashTable.h"
+	<iostream>
+

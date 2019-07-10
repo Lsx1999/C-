@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1562589189 source:e:\onlinejudge\1020\main.cpp
+	<iostream>
+	<cmath>
+	<memory.h>
+

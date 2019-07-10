@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1558319144 source:e:\code\adjmatrixgraph\main.cpp
+	<iostream>
+	"adjMatrixGraph.h"
+	"adjMatrixGraph.cpp"
+
+1558319100 source:e:\code\adjmatrixgraph\adjmatrixgraph.cpp
+	"adjMatrixGraph.h"
+
+1558319308 e:\code\adjmatrixgraph\adjmatrixgraph.h
+
+1558319313 e:\code\adjmatrixgraph\adjmatrixgraph.cpp
+	"adjMatrixGraph.h"
+

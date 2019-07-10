@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1557565337 source:e:\code\sort\main.cpp
+	<iostream>
+	"sort.h"
+	"sort.cpp"
+
+1558930110 source:e:\code\sort\sort.cpp
+	"sort.h"
+	<iostream>
+
+1557565787 e:\code\sort\sort.h
+
+1557565796 e:\code\sort\sort.cpp
+	"sort.h"
+

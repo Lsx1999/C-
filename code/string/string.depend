@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1514140574 source:e:\code\string\main.cpp
+	<iostream>
+
+1554291631 source:e:\code\string\string.cpp
+	<iostream>
+	"String.h"
+
+1554291535 e:\code\string\string.h
+	<iostream>
+

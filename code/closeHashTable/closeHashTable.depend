@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1557490062 source:e:\code\closehashtable\main.cpp
+	<iostream>
+	"closeHashTable.h"
+	"closeHashTable.cpp"
+
+1557490187 source:e:\code\closehashtable\closehashtable.cpp
+	"closeHashTable.h"
+	<cmath>
+	<iostream>
+
+1558926440 e:\code\closehashtable\closehashtable.h
+	<iostream>
+
+1557490187 e:\code\closehashtable\closehashtable.cpp
+	"closeHashTable.h"
+	<cmath>
+	<iostream>
+
